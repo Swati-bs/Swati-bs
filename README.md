@@ -1,5 +1,5 @@
 # Hey👋 I'm Swati Bhat
-I'm currently diving into the exciting world of Data Science and Machine Learning, with Python as my trusty sidekick. <br>I've worked on various projects involving Django and data analytics, and I've been an active contributor to open-source projects.<br> I'm always on the lookout for cool projects to collaborate on, especially anything involving data analysis, machine learning algorithms, and innovative uses of data.<br>Right now, I'm sharpening my skills in data science methodologies and machine learning principles, while also becoming a Python wizard. If you've got any insights or tips on advanced machine learning techniques and real-world applications,<br> I'd love to hear them!
+I'm currently diving into the exciting world of Data Science and Machine Learning, with Python as my trusty sidekick. <br>I've worked on various projects involving Django and data analytics, and I've been an active contributor to open-source projects.<br> I'm always on the lookout for cool projects to collaborate on, especially anything involving data analysis, machine learning algorithms, and innovative uses of data.<br>Right now, I'm sharpening my skills in data science methodologies and machine learning principles, while also becoming a Python wizard. If you've got any insights or tips on these,<br> I'd love to hear them!
 
 
 ## 🌐 Socials:
